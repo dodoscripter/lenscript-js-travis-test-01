@@ -1,8 +1,15 @@
 lenscript-js-travis-test-01
-=
+===========================
+
 Node.js Travis Example (LenScript repo) - for educational purposes
 
+What it should do
+-----------------
+
 The program [program.js](program.js) should print JavaScript 20 times.
+
+Test results
+------------
 
 Travis test results:
 
