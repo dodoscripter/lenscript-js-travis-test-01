@@ -1,4 +1,4 @@
-
-console.log('JavaScirpt');
-console.log('JavaScrpit');
-
+for (var i = 0; i < 20; i++) {
+console.log('JavaScript');
+console.log('JavaScript');
+}
